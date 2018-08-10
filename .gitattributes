@@ -1,1 +1,1 @@
-cmder/* filter=lfs diff=lfs merge=lfs -text
+cmder/** filter=lfs diff=lfs merge=lfs -text
